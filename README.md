@@ -20,7 +20,7 @@ This is a group project for COSC 341 at UBCO Summer 24 term 2.
 Clone the repository from GitHub to your local machine:
 
 ```sh
-git clone https://github.com/your-username/your-repository.git
+git clone [https://github.com/your-username/your-repository.git](https://github.com/billvo2212/SpherePlatformerGame.git)
 ```
 
 ### 2. Navigate to the Repository Directory
