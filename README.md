@@ -58,3 +58,7 @@ git commit -m "Your meaningful commit message"
 ```sh
 git push origin your-branch-name
 ```
+
+## After Cloning Project
+- Open the Project in Unity
+- Then go ```Project``` -> ```Asset``` -> ```Scenes``` -> Choose ```SampleScene```
