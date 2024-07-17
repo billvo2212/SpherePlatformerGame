@@ -2,6 +2,8 @@
 
 This is a group project for COSC 341 at UBCO Summer 24 term 2. Creating a simple Unity / C# Game that keep score of the player.
 
+Video of demo game play (https://youtu.be/uhY56AEzhc0)
+
 ### How the game starts
 <img width="1055" alt="Screenshot 2024-07-16 at 4 01 43 AM" src="https://github.com/user-attachments/assets/f865e691-32fd-45a8-a9e8-46f8e19bb851">
 
