@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnemyMovement : MonoBehaviour
+public class EnemyMovement1 : MonoBehaviour
 {
     private float speed = 1f;    // Speed of the enemy movement
     private Vector3[] waypoints;  // Array to store waypoints at the edges of the platform
@@ -13,8 +13,8 @@ public class EnemyMovement : MonoBehaviour
     {
         // Initialize the waypoints
         waypoints = new Vector3[2];
-        waypoints[0] = new Vector3(522.6f, 367.8f, 0.0f);
-        waypoints[1] = new Vector3(531.83f, 367.8f, 0.0f);
+        waypoints[0] = new Vector3(502f, 367.8f, 0.0f);
+        waypoints[1] = new Vector3(507f, 367.8f, 0.0f);
     }
 
     // Update is called once per frame
