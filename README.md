@@ -2,12 +2,12 @@
 
 This is a group project for COSC 341 at UBCO Summer 24 term 2. Creating a simple Unity / C# Game that keep score of the player.
 
-Video of demo game play (https://youtu.be/uhY56AEzhc0)
+### Video of demo game play (https://youtu.be/uhY56AEzhc0)
 
 ### How the game starts
 <img width="1055" alt="Screenshot 2024-07-16 at 4 01 43 AM" src="https://github.com/user-attachments/assets/f865e691-32fd-45a8-a9e8-46f8e19bb851">
 
-### If the player falls off the platform or touch the Enermy then it's GameOver
+### If the player falls off the platform or touch the Enemy then it's GameOver
 <img width="1062" alt="Screenshot 2024-07-16 at 4 02 08 AM" src="https://github.com/user-attachments/assets/429a1832-5e6d-4e35-8995-d3cb1c7698b9">
 
 ### GOAL FOR THIS PROJECT:
