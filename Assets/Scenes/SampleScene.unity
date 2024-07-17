@@ -247,7 +247,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'score: 0'
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2359,7 +2359,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3045905675344398346, guid: aaaad9c45ea128a4baddbb223483df35, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 496.11
+      value: 533.17
       objectReference: {fileID: 0}
     - target: {fileID: 3045905675344398346, guid: aaaad9c45ea128a4baddbb223483df35, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2447,7 +2447,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   winScreen: {fileID: 1022960678}
-  winScore: {fileID: 0}
+  winScore: {fileID: 119982502}
 --- !u!1 &849837965
 GameObject:
   m_ObjectHideFlags: 0
@@ -2806,7 +2806,7 @@ Transform:
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3.0900269, y: 0, z: -26.6}
+  m_LocalPosition: {x: 7, y: 3, z: -26.6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3234,7 +3234,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 55
   GameOverScript: {fileID: 277018417}
-  WonScript: {fileID: 0}
+  WonScript: {fileID: 119982504}
   speed: 0
 --- !u!1001 &1157685768
 PrefabInstance:
@@ -3580,8 +3580,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4291256656
-  m_fontColor: {r: 0.31372553, g: 0.38217914, b: 0.78039217, a: 1}
+    rgba: 4291282256
+  m_fontColor: {r: 0.31372553, g: 0.7711576, b: 0.78039217, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
